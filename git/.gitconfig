@@ -1,0 +1,10 @@
+[user]
+	email = nickweinberg@fastmail.com
+	name = Nicholas Weinberg
+
+[core]
+    excludesfile = ~/.gitignore_global
+[color]
+	ui = true
+[init]
+	defaultBranch = main
